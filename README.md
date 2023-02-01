@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Naveen I am from India I worked as Software Developer I want to become a Full Stack Developer I love to watch movies I want to travel to some countries like Africa, UK.
+
 <!--
 **Nav1719/Nav1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am Naveen I am from India I worked as Software Developer I want to become a Full Stack Developer I love to watch movies I want to travel to some countries like Africa, UK.
